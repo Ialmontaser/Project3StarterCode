@@ -1,0 +1,1175 @@
+Command: BuildMap
+Processed 52 Cities and 204 Roads
+
+Command: PrintMap
+[Murphy: [0]:[-84.03, 35.09]:(1627)]: 
+  Murphy to Franklin traveling E for 45.2 miles
+  Murphy to Cherokee traveling ENE for 55.81 miles
+
+[Franklin: [1]:[-83.38, 35.18]:(3845)]: 
+  Franklin to Murphy traveling W for 45.2 miles
+  Franklin to Cherokee traveling NNE for 20.86 miles
+  Franklin to Brevard traveling E for 45.28 miles
+
+[Cherokee: [2]:[-83.32, 35.48]:(2138)]: 
+  Cherokee to Murphy traveling WSW for 55.81 miles
+  Cherokee to Franklin traveling SSW for 20.86 miles
+  Cherokee to Asheville traveling E for 53.26 miles
+
+[Brevard: [3]:[-82.73, 35.24]:(7609)]: 
+  Brevard to Franklin traveling W for 45.28 miles
+  Brevard to Asheville traveling NNE for 26.23 miles
+  Brevard to Hendersonville traveling ENE for 19.23 miles
+
+[Asheville: [4]:[-82.56, 35.58]:(83393)]: 
+  Asheville to Cherokee traveling W for 53.26 miles
+  Asheville to Brevard traveling SSW for 26.23 miles
+  Asheville to Mars Hill traveling N for 17.18 miles
+  Asheville to Hendersonville traveling SSE for 19.05 miles
+  Asheville to Marion traveling E for 38.64 miles
+
+[Mars Hill: [5]:[-82.55, 35.83]:(1869)]: 
+  Mars Hill to Asheville traveling S for 17.18 miles
+  Mars Hill to Spruce Pine traveling E for 33.51 miles
+
+[Hendersonville: [6]:[-82.46, 35.32]:(13137)]: 
+  Hendersonville to Brevard traveling WSW for 19.23 miles
+  Hendersonville to Asheville traveling NNW for 19.05 miles
+  Hendersonville to Forest City traveling E for 40.85 miles
+
+[Spruce Pine: [7]:[-82.07, 35.91]:(2175)]: 
+  Spruce Pine to Mars Hill traveling W for 33.51 miles
+  Spruce Pine to Marion traveling SSE for 16.53 miles
+  Spruce Pine to Boone traveling NE for 34.5 miles
+
+[Marion: [8]:[-82.01, 35.68]:(7838)]: 
+  Marion to Asheville traveling W for 38.64 miles
+  Marion to Spruce Pine traveling NNW for 16.53 miles
+  Marion to Forest City traveling SSE for 26.05 miles
+  Marion to Hickory traveling E for 46.93 miles
+
+[Forest City: [9]:[-81.87, 35.33]:(7476)]: 
+  Forest City to Hendersonville traveling W for 40.85 miles
+  Forest City to Marion traveling NNW for 26.05 miles
+  Forest City to Gastonia traveling E for 47.92 miles
+
+[Boone: [10]:[-81.67, 36.21]:(17122)]: 
+  Boone to Spruce Pine traveling SW for 34.5 miles
+  Boone to Hickory traveling SE for 40.27 miles
+  Boone to Hamptonville traveling E for 59.34 miles
+
+[Hickory: [11]:[-81.33, 35.74]:(40010)]: 
+  Hickory to Marion traveling W for 46.93 miles
+  Hickory to Boone traveling NW for 40.27 miles
+  Hickory to Gastonia traveling SSE for 34.85 miles
+  Hickory to Statesville traveling E for 31.24 miles
+
+[Gastonia: [12]:[-81.18, 35.26]:(71741)]: 
+  Gastonia to Forest City traveling W for 47.92 miles
+  Gastonia to Hickory traveling NNW for 34.85 miles
+  Gastonia to Charlotte traveling E for 24.46 miles
+
+[Statesville: [13]:[-80.88, 35.79]:(24532)]: 
+  Statesville to Hickory traveling W for 31.24 miles
+  Statesville to Charlotte traveling S for 40.16 miles
+  Statesville to Hamptonville traveling N for 23.56 miles
+  Statesville to Salisbury traveling ESE for 28.81 miles
+  Statesville to Winston-Salem traveling ENE for 47.93 miles
+
+[Charlotte: [14]:[-80.83, 35.21]:(731424)]: 
+  Charlotte to Gastonia traveling W for 24.46 miles
+  Charlotte to Statesville traveling N for 40.16 miles
+  Charlotte to Salisbury traveling NE for 40.0 miles
+  Charlotte to Albemarle traveling ENE for 45.0 miles
+  Charlotte to Rockingham traveling ESE for 76.02 miles
+
+[Hamptonville: [15]:[-80.81, 36.12]:(6753)]: 
+  Hamptonville to Boone traveling W for 59.34 miles
+  Hamptonville to Statesville traveling S for 23.56 miles
+  Hamptonville to Mount Airy traveling NNE for 29.74 miles
+  Hamptonville to Winston-Salem traveling E for 38.24 miles
+
+[Mount Airy: [16]:[-80.61, 36.5]:(10388)]: 
+  Mount Airy to Hamptonville traveling SSW for 29.74 miles
+  Mount Airy to Winston-Salem traveling SE for 36.54 miles
+  Mount Airy to Reidsville traveling E for 65.39 miles
+
+[Salisbury: [17]:[-80.48, 35.67]:(33662)]: 
+  Salisbury to Statesville traveling WNW for 28.81 miles
+  Salisbury to Charlotte traveling SW for 40.0 miles
+  Salisbury to Albemarle traveling SE for 28.99 miles
+  Salisbury to High Point traveling ENE for 39.22 miles
+  Salisbury to Asheboro traveling E for 46.06 miles
+
+[Winston-Salem: [18]:[-80.26, 36.1]:(229617)]: 
+  Winston-Salem to Statesville traveling WSW for 47.93 miles
+  Winston-Salem to Hamptonville traveling W for 38.24 miles
+  Winston-Salem to Mount Airy traveling NW for 36.54 miles
+  Winston-Salem to High Point traveling ESE for 20.32 miles
+  Winston-Salem to Greensboro traveling E for 34.51 miles
+  Winston-Salem to Reidsville traveling ENE for 43.75 miles
+
+[Albemarle: [19]:[-80.2, 35.36]:(15903)]: 
+  Albemarle to Charlotte traveling WSW for 45.0 miles
+  Albemarle to Salisbury traveling NW for 28.99 miles
+  Albemarle to Biscoe traveling E for 29.53 miles
+
+[High Point: [20]:[-80.0, 35.97]:(104371)]: 
+  High Point to Salisbury traveling WSW for 39.22 miles
+  High Point to Winston-Salem traveling WNW for 20.32 miles
+  High Point to Asheboro traveling SE for 21.75 miles
+  High Point to Greensboro traveling ENE for 17.98 miles
+
+[Asheboro: [21]:[-79.81, 35.72]:(25012)]: 
+  Asheboro to Salisbury traveling W for 46.06 miles
+  Asheboro to High Point traveling NW for 21.75 miles
+  Asheboro to Biscoe traveling S for 24.67 miles
+  Asheboro to Greensboro traveling N for 25.43 miles
+  Asheboro to Siler City traveling E for 24.18 miles
+
+[Biscoe: [22]:[-79.77, 35.36]:(1700)]: 
+  Biscoe to Albemarle traveling W for 29.53 miles
+  Biscoe to Asheboro traveling N for 24.67 miles
+  Biscoe to Rockingham traveling S for 29.09 miles
+  Biscoe to Sanford traveling E for 41.65 miles
+
+[Rockingham: [23]:[-79.76, 34.94]:(9558)]: 
+  Rockingham to Charlotte traveling WNW for 76.02 miles
+  Rockingham to Biscoe traveling N for 29.09 miles
+  Rockingham to Sanford traveling NE for 54.84 miles
+  Rockingham to Lumberton traveling ESE for 56.05 miles
+
+[Greensboro: [24]:[-79.76, 36.08]:(269666)]: 
+  Greensboro to Winston-Salem traveling W for 34.51 miles
+  Greensboro to High Point traveling WSW for 17.98 miles
+  Greensboro to Asheboro traveling S for 25.43 miles
+  Greensboro to Reidsville traveling NNE for 19.27 miles
+  Greensboro to Siler City traveling SE for 31.95 miles
+  Greensboro to Durham traveling E for 59.3 miles
+
+[Reidsville: [25]:[-79.68, 36.35]:(14520)]: 
+  Reidsville to Mount Airy traveling W for 65.39 miles
+  Reidsville to Winston-Salem traveling WSW for 43.75 miles
+  Reidsville to Greensboro traveling SSW for 19.27 miles
+  Reidsville to Henderson traveling E for 87.46 miles
+
+[Siler City: [26]:[-79.46, 35.73]:(7887)]: 
+  Siler City to Asheboro traveling W for 24.18 miles
+  Siler City to Greensboro traveling NW for 31.95 miles
+  Siler City to Sanford traveling SE for 26.31 miles
+  Siler City to Cary traveling E for 45.77 miles
+
+[Sanford: [27]:[-79.18, 35.48]:(28094)]: 
+  Sanford to Biscoe traveling W for 41.65 miles
+  Sanford to Rockingham traveling SW for 54.84 miles
+  Sanford to Siler City traveling NW for 26.31 miles
+  Sanford to Fayetteville traveling SSE for 33.4 miles
+  Sanford to Cary traveling NE for 31.58 miles
+
+[Lumberton: [28]:[-79.01, 34.63]:(21542)]: 
+  Lumberton to Rockingham traveling WNW for 56.05 miles
+  Lumberton to Fayetteville traveling NNE for 31.03 miles
+  Lumberton to Wilmington traveling ESE for 80.9 miles
+
+[Fayetteville: [29]:[-78.92, 35.07]:(200564)]: 
+  Fayetteville to Sanford traveling NNW for 33.4 miles
+  Fayetteville to Lumberton traveling SSW for 31.03 miles
+  Fayetteville to Raleigh traveling NNE for 55.25 miles
+  Fayetteville to Benson traveling NE for 33.25 miles
+  Fayetteville to Warsaw traveling E for 53.53 miles
+
+[Durham: [30]:[-78.91, 35.99]:(228330)]: 
+  Durham to Greensboro traveling W for 59.3 miles
+  Durham to Cary traveling SSE for 18.85 miles
+  Durham to Raleigh traveling ESE for 21.59 miles
+  Durham to Henderson traveling NE for 41.52 miles
+
+[Cary: [31]:[-78.8, 35.74]:(135234)]: 
+  Cary to Siler City traveling W for 45.77 miles
+  Cary to Sanford traveling SW for 31.58 miles
+  Cary to Durham traveling NNW for 18.85 miles
+  Cary to Raleigh traveling ENE for 12.13 miles
+
+[Raleigh: [32]:[-78.64, 35.82]:(403892)]: 
+  Raleigh to Fayetteville traveling SSW for 55.25 miles
+  Raleigh to Durham traveling WNW for 21.59 miles
+  Raleigh to Cary traveling WSW for 12.13 miles
+  Raleigh to Benson traveling SSE for 31.52 miles
+  Raleigh to Henderson traveling NNE for 38.55 miles
+  Raleigh to Smithfield traveling SE for 29.68 miles
+  Raleigh to Wilson traveling E for 49.28 miles
+  Raleigh to Rocky Mount traveling E for 58.68 miles
+
+[Benson: [33]:[-78.55, 35.37]:(3311)]: 
+  Benson to Fayetteville traveling SW for 33.25 miles
+  Benson to Raleigh traveling NNW for 31.52 miles
+  Benson to Smithfield traveling NE for 16.68 miles
+  Benson to Warsaw traveling SE for 37.79 miles
+
+[Henderson: [34]:[-78.41, 36.32]:(15368)]: 
+  Henderson to Reidsville traveling W for 87.46 miles
+  Henderson to Durham traveling SW for 41.52 miles
+  Henderson to Raleigh traveling SSW for 38.55 miles
+  Henderson to Roanoke Rapids traveling E for 52.81 miles
+
+[Smithfield: [35]:[-78.35, 35.51]:(10966)]: 
+  Smithfield to Raleigh traveling NW for 29.68 miles
+  Smithfield to Benson traveling SW for 16.68 miles
+  Smithfield to Goldsboro traveling ESE for 26.91 miles
+  Smithfield to Wilson traveling ENE for 30.72 miles
+
+[Warsaw: [36]:[-78.15, 35.0]:(3054)]: 
+  Warsaw to Fayetteville traveling W for 53.53 miles
+  Warsaw to Benson traveling NW for 37.79 miles
+  Warsaw to Goldsboro traveling NNE for 28.75 miles
+  Warsaw to Wilmington traveling SSE for 56.03 miles
+  Warsaw to Jacksonville traveling ESE for 53.43 miles
+
+[Goldsboro: [37]:[-77.98, 35.38]:(36437)]: 
+  Goldsboro to Smithfield traveling WNW for 26.91 miles
+  Goldsboro to Warsaw traveling SSW for 28.75 miles
+  Goldsboro to Wilson traveling N for 21.7 miles
+  Goldsboro to Kinston traveling ESE for 28.19 miles
+  Goldsboro to Greenville traveling ENE for 44.48 miles
+
+[Wilson: [38]:[-77.94, 35.69]:(49167)]: 
+  Wilson to Raleigh traveling W for 49.28 miles
+  Wilson to Smithfield traveling WSW for 30.72 miles
+  Wilson to Goldsboro traveling S for 21.7 miles
+  Wilson to Rocky Mount traveling NNE for 20.27 miles
+  Wilson to Greenville traveling E for 39.83 miles
+
+[Wilmington: [39]:[-77.91, 34.22]:(106476)]: 
+  Wilmington to Lumberton traveling WNW for 80.9 miles
+  Wilmington to Warsaw traveling NNW for 56.03 miles
+  Wilmington to Jacksonville traveling NE for 50.74 miles
+
+[Rocky Mount: [40]:[-77.81, 35.95]:(57477)]: 
+  Rocky Mount to Raleigh traveling W for 58.68 miles
+  Rocky Mount to Wilson traveling SSW for 20.27 miles
+  Rocky Mount to Roanoke Rapids traveling NNE for 36.09 miles
+  Rocky Mount to Williamston traveling E for 51.79 miles
+
+[Roanoke Rapids: [41]:[-77.65, 36.45]:(15754)]: 
+  Roanoke Rapids to Henderson traveling W for 52.81 miles
+  Roanoke Rapids to Rocky Mount traveling SSW for 36.09 miles
+  Roanoke Rapids to Elizabeth City traveling E for 99.33 miles
+
+[Kinston: [42]:[-77.59, 35.27]:(21677)]: 
+  Kinston to Goldsboro traveling WNW for 28.19 miles
+  Kinston to Jacksonville traveling SSE for 37.3 miles
+  Kinston to Greenville traveling NNE for 27.16 miles
+  Kinston to New Bern traveling ESE for 37.34 miles
+
+[Jacksonville: [43]:[-77.41, 34.76]:(70145)]: 
+  Jacksonville to Warsaw traveling WNW for 53.43 miles
+  Jacksonville to Wilmington traveling SW for 50.74 miles
+  Jacksonville to Kinston traveling NNW for 37.3 miles
+  Jacksonville to New Bern traveling NE for 33.69 miles
+  Jacksonville to Morehead City traveling E for 45.83 miles
+
+[Greenville: [44]:[-77.37, 35.6]:(84554)]: 
+  Greenville to Goldsboro traveling WSW for 44.48 miles
+  Greenville to Wilson traveling W for 39.83 miles
+  Greenville to Kinston traveling SSW for 27.16 miles
+  Greenville to Williamston traveling NE for 27.48 miles
+  Greenville to Washington traveling E for 22.36 miles
+
+[New Bern: [45]:[-77.07, 35.11]:(29524)]: 
+  New Bern to Kinston traveling WNW for 37.34 miles
+  New Bern to Jacksonville traveling SW for 33.69 miles
+  New Bern to Washington traveling N for 30.71 miles
+  New Bern to Morehead City traveling SE for 34.48 miles
+
+[Williamston: [46]:[-77.06, 35.85]:(5511)]: 
+  Williamston to Rocky Mount traveling W for 51.79 miles
+  Williamston to Greenville traveling SW for 27.48 miles
+  Williamston to Washington traveling S for 20.59 miles
+  Williamston to Elizabeth City traveling ENE for 65.46 miles
+  Williamston to Manteo traveling E for 96.26 miles
+
+[Washington: [47]:[-77.05, 35.55]:(9744)]: 
+  Washington to Greenville traveling W for 22.36 miles
+  Washington to New Bern traveling S for 30.71 miles
+  Washington to Williamston traveling N for 20.59 miles
+
+[Morehead City: [48]:[-76.75, 34.73]:(8661)]: 
+  Morehead City to Jacksonville traveling W for 45.83 miles
+  Morehead City to New Bern traveling NW for 34.48 miles
+
+[Elizabeth City: [49]:[-76.22, 36.3]:(18683)]: 
+  Elizabeth City to Roanoke Rapids traveling W for 99.33 miles
+  Elizabeth City to Williamston traveling WSW for 65.46 miles
+  Elizabeth City to Barco traveling ENE for 17.41 miles
+
+[Barco: [50]:[-76.0, 36.4]:(881)]: 
+  Barco to Elizabeth City traveling WSW for 17.41 miles
+  Barco to Manteo traveling SSE for 41.01 miles
+
+[Manteo: [51]:[-75.67, 35.9]:(1434)]: 
+  Manteo to Williamston traveling W for 96.26 miles
+  Manteo to Barco traveling NNW for 41.01 miles
+
+
+Command: PrintCities
+Murphy: [0]:[-84.03, 35.09]:(1627)
+Franklin: [1]:[-83.38, 35.18]:(3845)
+Cherokee: [2]:[-83.32, 35.48]:(2138)
+Brevard: [3]:[-82.73, 35.24]:(7609)
+Asheville: [4]:[-82.56, 35.58]:(83393)
+Mars Hill: [5]:[-82.55, 35.83]:(1869)
+Hendersonville: [6]:[-82.46, 35.32]:(13137)
+Spruce Pine: [7]:[-82.07, 35.91]:(2175)
+Marion: [8]:[-82.01, 35.68]:(7838)
+Forest City: [9]:[-81.87, 35.33]:(7476)
+Boone: [10]:[-81.67, 36.21]:(17122)
+Hickory: [11]:[-81.33, 35.74]:(40010)
+Gastonia: [12]:[-81.18, 35.26]:(71741)
+Statesville: [13]:[-80.88, 35.79]:(24532)
+Charlotte: [14]:[-80.83, 35.21]:(731424)
+Hamptonville: [15]:[-80.81, 36.12]:(6753)
+Mount Airy: [16]:[-80.61, 36.5]:(10388)
+Salisbury: [17]:[-80.48, 35.67]:(33662)
+Winston-Salem: [18]:[-80.26, 36.1]:(229617)
+Albemarle: [19]:[-80.2, 35.36]:(15903)
+High Point: [20]:[-80.0, 35.97]:(104371)
+Asheboro: [21]:[-79.81, 35.72]:(25012)
+Biscoe: [22]:[-79.77, 35.36]:(1700)
+Rockingham: [23]:[-79.76, 34.94]:(9558)
+Greensboro: [24]:[-79.76, 36.08]:(269666)
+Reidsville: [25]:[-79.68, 36.35]:(14520)
+Siler City: [26]:[-79.46, 35.73]:(7887)
+Sanford: [27]:[-79.18, 35.48]:(28094)
+Lumberton: [28]:[-79.01, 34.63]:(21542)
+Fayetteville: [29]:[-78.92, 35.07]:(200564)
+Durham: [30]:[-78.91, 35.99]:(228330)
+Cary: [31]:[-78.8, 35.74]:(135234)
+Raleigh: [32]:[-78.64, 35.82]:(403892)
+Benson: [33]:[-78.55, 35.37]:(3311)
+Henderson: [34]:[-78.41, 36.32]:(15368)
+Smithfield: [35]:[-78.35, 35.51]:(10966)
+Warsaw: [36]:[-78.15, 35.0]:(3054)
+Goldsboro: [37]:[-77.98, 35.38]:(36437)
+Wilson: [38]:[-77.94, 35.69]:(49167)
+Wilmington: [39]:[-77.91, 34.22]:(106476)
+Rocky Mount: [40]:[-77.81, 35.95]:(57477)
+Roanoke Rapids: [41]:[-77.65, 36.45]:(15754)
+Kinston: [42]:[-77.59, 35.27]:(21677)
+Jacksonville: [43]:[-77.41, 34.76]:(70145)
+Greenville: [44]:[-77.37, 35.6]:(84554)
+New Bern: [45]:[-77.07, 35.11]:(29524)
+Williamston: [46]:[-77.06, 35.85]:(5511)
+Washington: [47]:[-77.05, 35.55]:(9744)
+Morehead City: [48]:[-76.75, 34.73]:(8661)
+Elizabeth City: [49]:[-76.22, 36.3]:(18683)
+Barco: [50]:[-76.0, 36.4]:(881)
+Manteo: [51]:[-75.67, 35.9]:(1434)
+
+
+Command: DFSmap
+52 cities are searched in this DFS order starting from Manteo
+
+Manteo : Williamston : Rocky Mount : Raleigh : Fayetteville
+Sanford : Biscoe : Albemarle : Charlotte : Gastonia
+Forest City : Hendersonville : Brevard : Franklin : Murphy
+Cherokee : Asheville : Mars Hill : Spruce Pine : Marion
+Hickory : Boone : Hamptonville : Statesville : Salisbury
+High Point : Winston-Salem : Mount Airy : Reidsville : Greensboro
+Asheboro : Siler City : Cary : Durham : Henderson
+Roanoke Rapids : Elizabeth City : Barco : Rockingham : Lumberton
+Wilmington : Warsaw : Benson : Smithfield : Goldsboro
+Wilson : Greenville : Kinston : Jacksonville : New Bern
+Washington : Morehead City
+
+Parent of Murphy is Franklin
+Parent of Franklin is Brevard
+Parent of Cherokee is Murphy
+Parent of Brevard is Hendersonville
+Parent of Asheville is Cherokee
+Parent of Mars Hill is Asheville
+Parent of Hendersonville is Forest City
+Parent of Spruce Pine is Mars Hill
+Parent of Marion is Spruce Pine
+Parent of Forest City is Gastonia
+Parent of Boone is Hickory
+Parent of Hickory is Marion
+Parent of Gastonia is Charlotte
+Parent of Statesville is Hamptonville
+Parent of Charlotte is Albemarle
+Parent of Hamptonville is Boone
+Parent of Mount Airy is Winston-Salem
+Parent of Salisbury is Statesville
+Parent of Winston-Salem is High Point
+Parent of Albemarle is Biscoe
+Parent of High Point is Salisbury
+Parent of Asheboro is Greensboro
+Parent of Biscoe is Sanford
+Parent of Rockingham is Charlotte
+Parent of Greensboro is Reidsville
+Parent of Reidsville is Mount Airy
+Parent of Siler City is Asheboro
+Parent of Sanford is Fayetteville
+Parent of Lumberton is Rockingham
+Parent of Fayetteville is Raleigh
+Parent of Durham is Cary
+Parent of Cary is Siler City
+Parent of Raleigh is Rocky Mount
+Parent of Benson is Warsaw
+Parent of Henderson is Durham
+Parent of Smithfield is Benson
+Parent of Warsaw is Wilmington
+Parent of Goldsboro is Smithfield
+Parent of Wilson is Goldsboro
+Parent of Wilmington is Lumberton
+Parent of Rocky Mount is Williamston
+Parent of Roanoke Rapids is Henderson
+Parent of Kinston is Greenville
+Parent of Jacksonville is Kinston
+Parent of Greenville is Wilson
+Parent of New Bern is Jacksonville
+Parent of Williamston is Manteo
+Parent of Washington is New Bern
+Parent of Morehead City is New Bern
+Parent of Elizabeth City is Roanoke Rapids
+Parent of Barco is Elizabeth City
+
+Command: DFSmap
+52 cities are searched in this DFS order starting from Murphy
+
+Murphy : Franklin : Cherokee : Asheville : Brevard
+Hendersonville : Forest City : Marion : Spruce Pine : Mars Hill
+Boone : Hickory : Gastonia : Charlotte : Statesville
+Hamptonville : Mount Airy : Winston-Salem : High Point : Salisbury
+Albemarle : Biscoe : Asheboro : Greensboro : Reidsville
+Henderson : Durham : Cary : Siler City : Sanford
+Rockingham : Lumberton : Fayetteville : Raleigh : Benson
+Smithfield : Goldsboro : Warsaw : Wilmington : Jacksonville
+Kinston : Greenville : Wilson : Rocky Mount : Roanoke Rapids
+Elizabeth City : Williamston : Washington : New Bern : Morehead City
+Manteo : Barco
+
+Parent of Franklin is Murphy
+Parent of Cherokee is Franklin
+Parent of Brevard is Asheville
+Parent of Asheville is Cherokee
+Parent of Mars Hill is Spruce Pine
+Parent of Hendersonville is Brevard
+Parent of Spruce Pine is Marion
+Parent of Marion is Forest City
+Parent of Forest City is Hendersonville
+Parent of Boone is Spruce Pine
+Parent of Hickory is Boone
+Parent of Gastonia is Hickory
+Parent of Statesville is Charlotte
+Parent of Charlotte is Gastonia
+Parent of Hamptonville is Statesville
+Parent of Mount Airy is Hamptonville
+Parent of Salisbury is High Point
+Parent of Winston-Salem is Mount Airy
+Parent of Albemarle is Salisbury
+Parent of High Point is Winston-Salem
+Parent of Asheboro is Biscoe
+Parent of Biscoe is Albemarle
+Parent of Rockingham is Sanford
+Parent of Greensboro is Asheboro
+Parent of Reidsville is Greensboro
+Parent of Siler City is Cary
+Parent of Sanford is Siler City
+Parent of Lumberton is Rockingham
+Parent of Fayetteville is Lumberton
+Parent of Durham is Henderson
+Parent of Cary is Durham
+Parent of Raleigh is Fayetteville
+Parent of Benson is Raleigh
+Parent of Henderson is Reidsville
+Parent of Smithfield is Benson
+Parent of Warsaw is Goldsboro
+Parent of Goldsboro is Smithfield
+Parent of Wilson is Greenville
+Parent of Wilmington is Warsaw
+Parent of Rocky Mount is Wilson
+Parent of Roanoke Rapids is Rocky Mount
+Parent of Kinston is Jacksonville
+Parent of Jacksonville is Wilmington
+Parent of Greenville is Kinston
+Parent of New Bern is Washington
+Parent of Williamston is Elizabeth City
+Parent of Washington is Williamston
+Parent of Morehead City is New Bern
+Parent of Elizabeth City is Roanoke Rapids
+Parent of Barco is Manteo
+Parent of Manteo is Williamston
+
+Command: BFSmap
+52 cities are searched in this BFS order starting from Raleigh
+
+Raleigh : Fayetteville : Durham : Cary : Benson
+Henderson : Smithfield : Wilson : Rocky Mount : Sanford
+Lumberton : Warsaw : Greensboro : Siler City : Reidsville
+Roanoke Rapids : Goldsboro : Greenville : Williamston : Biscoe
+Rockingham : Wilmington : Jacksonville : Winston-Salem : High Point
+Asheboro : Mount Airy : Elizabeth City : Kinston : Washington
+Manteo : Albemarle : Charlotte : New Bern : Morehead City
+Statesville : Hamptonville : Salisbury : Barco : Gastonia
+Hickory : Boone : Forest City : Marion : Spruce Pine
+Hendersonville : Asheville : Mars Hill : Brevard : Cherokee
+Franklin : Murphy
+
+Parent of Murphy is Cherokee
+Parent of Franklin is Brevard
+Parent of Cherokee is Asheville
+Parent of Brevard is Hendersonville
+Parent of Asheville is Marion
+Parent of Mars Hill is Spruce Pine
+Parent of Hendersonville is Forest City
+Parent of Spruce Pine is Boone
+Parent of Marion is Hickory
+Parent of Forest City is Gastonia
+Parent of Boone is Hamptonville
+Parent of Hickory is Statesville
+Parent of Gastonia is Charlotte
+Parent of Statesville is Winston-Salem
+Parent of Charlotte is Rockingham
+Parent of Hamptonville is Winston-Salem
+Parent of Mount Airy is Reidsville
+Parent of Salisbury is High Point
+Parent of Winston-Salem is Greensboro
+Parent of Albemarle is Biscoe
+Parent of High Point is Greensboro
+Parent of Asheboro is Greensboro
+Parent of Biscoe is Sanford
+Parent of Rockingham is Sanford
+Parent of Greensboro is Durham
+Parent of Reidsville is Henderson
+Parent of Siler City is Cary
+Parent of Sanford is Fayetteville
+Parent of Lumberton is Fayetteville
+Parent of Fayetteville is Raleigh
+Parent of Durham is Raleigh
+Parent of Cary is Raleigh
+Parent of Benson is Raleigh
+Parent of Henderson is Raleigh
+Parent of Smithfield is Raleigh
+Parent of Warsaw is Fayetteville
+Parent of Goldsboro is Smithfield
+Parent of Wilson is Raleigh
+Parent of Wilmington is Lumberton
+Parent of Rocky Mount is Raleigh
+Parent of Roanoke Rapids is Henderson
+Parent of Kinston is Goldsboro
+Parent of Jacksonville is Warsaw
+Parent of Greenville is Wilson
+Parent of New Bern is Jacksonville
+Parent of Williamston is Rocky Mount
+Parent of Washington is Greenville
+Parent of Morehead City is Jacksonville
+Parent of Elizabeth City is Roanoke Rapids
+Parent of Barco is Elizabeth City
+Parent of Manteo is Williamston
+
+Command: MSTmap
+Total weight is 1449.67
+
+Root is Murphy
+Edges:
+(Murphy, Franklin)   (Franklin, Cherokee)   (Franklin, Brevard)   (Hendersonville, Asheville)   (Asheville, Mars Hill) 
+(Brevard, Hendersonville)   (Mars Hill, Spruce Pine)   (Spruce Pine, Marion)   (Marion, Forest City)   (Spruce Pine, Boone) 
+(Boone, Hickory)   (Hickory, Gastonia)   (Hickory, Statesville)   (Gastonia, Charlotte)   (Statesville, Hamptonville) 
+(Hamptonville, Mount Airy)   (Statesville, Salisbury)   (High Point, Winston-Salem)   (Salisbury, Albemarle)   (Asheboro, High Point) 
+(Biscoe, Asheboro)   (Albemarle, Biscoe)   (Biscoe, Rockingham)   (High Point, Greensboro)   (Greensboro, Reidsville) 
+(Asheboro, Siler City)   (Siler City, Sanford)   (Fayetteville, Lumberton)   (Benson, Fayetteville)   (Cary, Durham) 
+(Sanford, Cary)   (Cary, Raleigh)   (Smithfield, Benson)   (Raleigh, Henderson)   (Raleigh, Smithfield) 
+(Goldsboro, Warsaw)   (Smithfield, Goldsboro)   (Goldsboro, Wilson)   (Jacksonville, Wilmington)   (Wilson, Rocky Mount) 
+(Rocky Mount, Roanoke Rapids)   (Goldsboro, Kinston)   (New Bern, Jacksonville)   (Kinston, Greenville)   (Washington, New Bern) 
+(Washington, Williamston)   (Greenville, Washington)   (New Bern, Morehead City)   (Williamston, Elizabeth City)   (Elizabeth City, Barco) 
+(Barco, Manteo) 
+
+
+Command: ShortPathMap
+All shortest paths from Murphy are: 
+A path from Murphy to Murphy: 
+Murphy (cost: 0.0)
+A path from Murphy to Franklin: 
+Murphy--> Franklin (cost: 45.2)
+A path from Murphy to Cherokee: 
+Murphy--> Cherokee (cost: 55.81)
+A path from Murphy to Brevard: 
+Murphy--> Franklin--> Brevard (cost: 90.48)
+A path from Murphy to Asheville: 
+Murphy--> Cherokee--> Asheville (cost: 109.07)
+A path from Murphy to Mars Hill: 
+Murphy--> Cherokee--> Asheville--> Mars Hill (cost: 126.25)
+A path from Murphy to Hendersonville: 
+Murphy--> Franklin--> Brevard--> Hendersonville (cost: 109.71)
+A path from Murphy to Spruce Pine: 
+Murphy--> Cherokee--> Asheville--> Mars Hill--> Spruce Pine (cost: 159.76)
+A path from Murphy to Marion: 
+Murphy--> Cherokee--> Asheville--> Marion (cost: 147.71)
+A path from Murphy to Forest City: 
+Murphy--> Franklin--> Brevard--> Hendersonville--> Forest City (cost: 150.56)
+A path from Murphy to Boone: 
+Murphy--> Cherokee--> Asheville--> Mars Hill--> Spruce Pine--> Boone (cost: 194.26)
+A path from Murphy to Hickory: 
+Murphy--> Cherokee--> Asheville--> Marion--> Hickory (cost: 194.64)
+A path from Murphy to Gastonia: 
+Murphy--> Franklin--> Brevard--> Hendersonville--> Forest City--> Gastonia (cost: 198.47)
+A path from Murphy to Statesville: 
+Murphy--> Cherokee--> Asheville--> Marion--> Hickory--> Statesville (cost: 225.88)
+A path from Murphy to Charlotte: 
+Murphy--> Franklin--> Brevard--> Hendersonville--> Forest City--> 
+Gastonia--> Charlotte (cost: 222.94)
+A path from Murphy to Hamptonville: 
+Murphy--> Cherokee--> Asheville--> Marion--> Hickory--> 
+Statesville--> Hamptonville (cost: 249.44)
+A path from Murphy to Mount Airy: 
+Murphy--> Cherokee--> Asheville--> Marion--> Hickory--> 
+Statesville--> Hamptonville--> Mount Airy (cost: 279.17)
+A path from Murphy to Salisbury: 
+Murphy--> Cherokee--> Asheville--> Marion--> Hickory--> 
+Statesville--> Salisbury (cost: 254.69)
+A path from Murphy to Winston-Salem: 
+Murphy--> Cherokee--> Asheville--> Marion--> Hickory--> 
+Statesville--> Winston-Salem (cost: 273.81)
+A path from Murphy to Albemarle: 
+Murphy--> Franklin--> Brevard--> Hendersonville--> Forest City--> 
+Gastonia--> Charlotte--> Albemarle (cost: 267.94)
+A path from Murphy to High Point: 
+Murphy--> Cherokee--> Asheville--> Marion--> Hickory--> 
+Statesville--> Salisbury--> High Point (cost: 293.91)
+A path from Murphy to Asheboro: 
+Murphy--> Cherokee--> Asheville--> Marion--> Hickory--> 
+Statesville--> Salisbury--> Asheboro (cost: 300.75)
+A path from Murphy to Biscoe: 
+Murphy--> Franklin--> Brevard--> Hendersonville--> Forest City--> 
+Gastonia--> Charlotte--> Albemarle--> Biscoe (cost: 297.46)
+A path from Murphy to Rockingham: 
+Murphy--> Franklin--> Brevard--> Hendersonville--> Forest City--> 
+Gastonia--> Charlotte--> Rockingham (cost: 298.96)
+A path from Murphy to Greensboro: 
+Murphy--> Cherokee--> Asheville--> Marion--> Hickory--> 
+Statesville--> Winston-Salem--> Greensboro (cost: 308.31)
+A path from Murphy to Reidsville: 
+Murphy--> Cherokee--> Asheville--> Marion--> Hickory--> 
+Statesville--> Winston-Salem--> Reidsville (cost: 317.56)
+A path from Murphy to Siler City: 
+Murphy--> Cherokee--> Asheville--> Marion--> Hickory--> 
+Statesville--> Salisbury--> Asheboro--> Siler City (cost: 324.93)
+A path from Murphy to Sanford: 
+Murphy--> Franklin--> Brevard--> Hendersonville--> Forest City--> 
+Gastonia--> Charlotte--> Albemarle--> Biscoe--> Sanford (cost: 339.11)
+A path from Murphy to Lumberton: 
+Murphy--> Franklin--> Brevard--> Hendersonville--> Forest City--> 
+Gastonia--> Charlotte--> Rockingham--> Lumberton (cost: 355.0)
+A path from Murphy to Fayetteville: 
+Murphy--> Franklin--> Brevard--> Hendersonville--> Forest City--> 
+Gastonia--> Charlotte--> Albemarle--> Biscoe--> Sanford--> Fayetteville (cost: 372.51)
+A path from Murphy to Durham: 
+Murphy--> Cherokee--> Asheville--> Marion--> Hickory--> 
+Statesville--> Winston-Salem--> Greensboro--> Durham (cost: 367.62)
+A path from Murphy to Cary: 
+Murphy--> Franklin--> Brevard--> Hendersonville--> Forest City--> 
+Gastonia--> Charlotte--> Albemarle--> Biscoe--> Sanford--> Cary (cost: 370.69)
+A path from Murphy to Raleigh: 
+Murphy--> Franklin--> Brevard--> Hendersonville--> Forest City--> 
+Gastonia--> Charlotte--> Albemarle--> Biscoe--> Sanford--> 
+Cary--> Raleigh (cost: 382.82)
+A path from Murphy to Benson: 
+Murphy--> Franklin--> Brevard--> Hendersonville--> Forest City--> 
+Gastonia--> Charlotte--> Albemarle--> Biscoe--> Sanford--> 
+Fayetteville--> Benson (cost: 405.76)
+A path from Murphy to Henderson: 
+Murphy--> Cherokee--> Asheville--> Marion--> Hickory--> 
+Statesville--> Winston-Salem--> Reidsville--> Henderson (cost: 405.02)
+A path from Murphy to Smithfield: 
+Murphy--> Franklin--> Brevard--> Hendersonville--> Forest City--> 
+Gastonia--> Charlotte--> Albemarle--> Biscoe--> Sanford--> 
+Cary--> Raleigh--> Smithfield (cost: 412.5)
+A path from Murphy to Warsaw: 
+Murphy--> Franklin--> Brevard--> Hendersonville--> Forest City--> 
+Gastonia--> Charlotte--> Albemarle--> Biscoe--> Sanford--> 
+Fayetteville--> Warsaw (cost: 426.04)
+A path from Murphy to Goldsboro: 
+Murphy--> Franklin--> Brevard--> Hendersonville--> Forest City--> 
+Gastonia--> Charlotte--> Albemarle--> Biscoe--> Sanford--> 
+Cary--> Raleigh--> Smithfield--> Goldsboro (cost: 439.42)
+A path from Murphy to Wilson: 
+Murphy--> Franklin--> Brevard--> Hendersonville--> Forest City--> 
+Gastonia--> Charlotte--> Albemarle--> Biscoe--> Sanford--> 
+Cary--> Raleigh--> Wilson (cost: 432.1)
+A path from Murphy to Wilmington: 
+Murphy--> Franklin--> Brevard--> Hendersonville--> Forest City--> 
+Gastonia--> Charlotte--> Rockingham--> Lumberton--> Wilmington (cost: 435.9)
+A path from Murphy to Rocky Mount: 
+Murphy--> Franklin--> Brevard--> Hendersonville--> Forest City--> 
+Gastonia--> Charlotte--> Albemarle--> Biscoe--> Sanford--> 
+Cary--> Raleigh--> Rocky Mount (cost: 441.5)
+A path from Murphy to Roanoke Rapids: 
+Murphy--> Cherokee--> Asheville--> Marion--> Hickory--> 
+Statesville--> Winston-Salem--> Reidsville--> Henderson--> Roanoke Rapids (cost: 457.83)
+A path from Murphy to Kinston: 
+Murphy--> Franklin--> Brevard--> Hendersonville--> Forest City--> 
+Gastonia--> Charlotte--> Albemarle--> Biscoe--> Sanford--> 
+Cary--> Raleigh--> Smithfield--> Goldsboro--> Kinston (cost: 467.61)
+A path from Murphy to Jacksonville: 
+Murphy--> Franklin--> Brevard--> Hendersonville--> Forest City--> 
+Gastonia--> Charlotte--> Albemarle--> Biscoe--> Sanford--> 
+Fayetteville--> Warsaw--> Jacksonville (cost: 479.47)
+A path from Murphy to Greenville: 
+Murphy--> Franklin--> Brevard--> Hendersonville--> Forest City--> 
+Gastonia--> Charlotte--> Albemarle--> Biscoe--> Sanford--> 
+Cary--> Raleigh--> Wilson--> Greenville (cost: 471.94)
+A path from Murphy to New Bern: 
+Murphy--> Franklin--> Brevard--> Hendersonville--> Forest City--> 
+Gastonia--> Charlotte--> Albemarle--> Biscoe--> Sanford--> 
+Cary--> Raleigh--> Smithfield--> Goldsboro--> Kinston--> New Bern (cost: 504.94)
+A path from Murphy to Williamston: 
+Murphy--> Franklin--> Brevard--> Hendersonville--> Forest City--> 
+Gastonia--> Charlotte--> Albemarle--> Biscoe--> Sanford--> 
+Cary--> Raleigh--> Rocky Mount--> Williamston (cost: 493.29)
+A path from Murphy to Washington: 
+Murphy--> Franklin--> Brevard--> Hendersonville--> Forest City--> 
+Gastonia--> Charlotte--> Albemarle--> Biscoe--> Sanford--> 
+Cary--> Raleigh--> Wilson--> Greenville--> Washington (cost: 494.3)
+A path from Murphy to Morehead City: 
+Murphy--> Franklin--> Brevard--> Hendersonville--> Forest City--> 
+Gastonia--> Charlotte--> Albemarle--> Biscoe--> Sanford--> 
+Fayetteville--> Warsaw--> Jacksonville--> Morehead City (cost: 525.3)
+A path from Murphy to Elizabeth City: 
+Murphy--> Cherokee--> Asheville--> Marion--> Hickory--> 
+Statesville--> Winston-Salem--> Reidsville--> Henderson--> Roanoke Rapids--> Elizabeth City (cost: 557.16)
+A path from Murphy to Barco: 
+Murphy--> Cherokee--> Asheville--> Marion--> Hickory--> 
+Statesville--> Winston-Salem--> Reidsville--> Henderson--> Roanoke Rapids--> 
+Elizabeth City--> Barco (cost: 574.57)
+A path from Murphy to Manteo: 
+Murphy--> Franklin--> Brevard--> Hendersonville--> Forest City--> 
+Gastonia--> Charlotte--> Albemarle--> Biscoe--> Sanford--> 
+Cary--> Raleigh--> Rocky Mount--> Williamston--> Manteo (cost: 589.55)
+
+
+Command: BuildSubMap
+Processed 29 Cities and 68 Roads
+
+Command: PrintSubMap
+[Manteo: [0]:[-75.67, 35.9]:(1434)]: 
+  Manteo to Williamston traveling W for 96.26 miles
+  Manteo to Barco traveling NNW for 41.01 miles
+
+[Murphy: [1]:[-84.03, 35.09]:(1627)]: 
+  Murphy to Franklin traveling E for 45.2 miles
+  Murphy to Cherokee traveling ENE for 55.81 miles
+
+[Franklin: [2]:[-83.38, 35.18]:(3845)]: 
+  Franklin to Murphy traveling W for 45.2 miles
+  Franklin to Cherokee traveling NNE for 20.86 miles
+  Franklin to Brevard traveling E for 45.28 miles
+
+[Cherokee: [3]:[-83.32, 35.48]:(2138)]: 
+  Cherokee to Murphy traveling WSW for 55.81 miles
+  Cherokee to Franklin traveling SSW for 20.86 miles
+  Cherokee to Asheville traveling E for 53.26 miles
+
+[Brevard: [4]:[-82.73, 35.24]:(7609)]: 
+  Brevard to Franklin traveling W for 45.28 miles
+  Brevard to Asheville traveling NNE for 26.23 miles
+  Brevard to Hendersonville traveling ENE for 19.23 miles
+
+[Asheville: [5]:[-82.56, 35.58]:(83393)]: 
+  Asheville to Cherokee traveling W for 53.26 miles
+  Asheville to Brevard traveling SSW for 26.23 miles
+  Asheville to Mars Hill traveling N for 17.18 miles
+  Asheville to Hendersonville traveling SSE for 19.05 miles
+
+[Mars Hill: [6]:[-82.55, 35.83]:(1869)]: 
+  Mars Hill to Asheville traveling S for 17.18 miles
+  Mars Hill to Spruce Pine traveling E for 33.51 miles
+
+[Hendersonville: [7]:[-82.46, 35.32]:(13137)]: 
+  Hendersonville to Brevard traveling WSW for 19.23 miles
+  Hendersonville to Asheville traveling NNW for 19.05 miles
+  Hendersonville to Forest City traveling E for 40.85 miles
+
+[Spruce Pine: [8]:[-82.07, 35.91]:(2175)]: 
+  Spruce Pine to Mars Hill traveling W for 33.51 miles
+  Spruce Pine to Boone traveling NE for 34.5 miles
+
+[Forest City: [9]:[-81.87, 35.33]:(7476)]: 
+  Forest City to Hendersonville traveling W for 40.85 miles
+  Forest City to Gastonia traveling E for 47.92 miles
+
+[Boone: [10]:[-81.67, 36.21]:(17122)]: 
+  Boone to Spruce Pine traveling SW for 34.5 miles
+  Boone to Hamptonville traveling E for 59.34 miles
+
+[Gastonia: [11]:[-81.18, 35.26]:(71741)]: 
+  Gastonia to Forest City traveling W for 47.92 miles
+  Gastonia to Charlotte traveling E for 24.46 miles
+
+[Charlotte: [12]:[-80.83, 35.21]:(731424)]: 
+  Charlotte to Gastonia traveling W for 24.46 miles
+  Charlotte to Rockingham traveling ESE for 76.02 miles
+
+[Hamptonville: [13]:[-80.81, 36.12]:(6753)]: 
+  Hamptonville to Boone traveling W for 59.34 miles
+  Hamptonville to Mount Airy traveling NNE for 29.74 miles
+
+[Mount Airy: [14]:[-80.61, 36.5]:(10388)]: 
+  Mount Airy to Hamptonville traveling SSW for 29.74 miles
+  Mount Airy to Reidsville traveling E for 65.39 miles
+
+[Rockingham: [15]:[-79.76, 34.94]:(9558)]: 
+  Rockingham to Charlotte traveling WNW for 76.02 miles
+  Rockingham to Lumberton traveling ESE for 56.05 miles
+
+[Greensboro: [16]:[-79.76, 36.08]:(269666)]: 
+  Greensboro to Reidsville traveling NNE for 19.27 miles
+
+[Reidsville: [17]:[-79.68, 36.35]:(14520)]: 
+  Reidsville to Mount Airy traveling W for 65.39 miles
+  Reidsville to Greensboro traveling SSW for 19.27 miles
+  Reidsville to Henderson traveling E for 87.46 miles
+
+[Lumberton: [18]:[-79.01, 34.63]:(21542)]: 
+  Lumberton to Rockingham traveling WNW for 56.05 miles
+  Lumberton to Wilmington traveling ESE for 80.9 miles
+
+[Henderson: [19]:[-78.41, 36.32]:(15368)]: 
+  Henderson to Reidsville traveling W for 87.46 miles
+  Henderson to Roanoke Rapids traveling E for 52.81 miles
+
+[Wilmington: [20]:[-77.91, 34.22]:(106476)]: 
+  Wilmington to Lumberton traveling WNW for 80.9 miles
+  Wilmington to Jacksonville traveling NE for 50.74 miles
+
+[Roanoke Rapids: [21]:[-77.65, 36.45]:(15754)]: 
+  Roanoke Rapids to Henderson traveling W for 52.81 miles
+  Roanoke Rapids to Elizabeth City traveling E for 99.33 miles
+
+[Jacksonville: [22]:[-77.41, 34.76]:(70145)]: 
+  Jacksonville to Wilmington traveling SW for 50.74 miles
+  Jacksonville to New Bern traveling NE for 33.69 miles
+  Jacksonville to Morehead City traveling E for 45.83 miles
+
+[Elizabeth City: [23]:[-76.22, 36.3]:(18683)]: 
+  Elizabeth City to Roanoke Rapids traveling W for 99.33 miles
+  Elizabeth City to Williamston traveling WSW for 65.46 miles
+  Elizabeth City to Barco traveling ENE for 17.41 miles
+
+[New Bern: [24]:[-77.07, 35.11]:(29524)]: 
+  New Bern to Jacksonville traveling SW for 33.69 miles
+  New Bern to Washington traveling N for 30.71 miles
+  New Bern to Morehead City traveling SE for 34.48 miles
+
+[Williamston: [25]:[-77.06, 35.85]:(5511)]: 
+  Williamston to Washington traveling S for 20.59 miles
+  Williamston to Elizabeth City traveling ENE for 65.46 miles
+  Williamston to Manteo traveling E for 96.26 miles
+
+[Washington: [26]:[-77.05, 35.55]:(9744)]: 
+  Washington to New Bern traveling S for 30.71 miles
+  Washington to Williamston traveling N for 20.59 miles
+
+[Barco: [27]:[-76.0, 36.4]:(881)]: 
+  Barco to Elizabeth City traveling WSW for 17.41 miles
+  Barco to Manteo traveling SSE for 41.01 miles
+
+[Morehead City: [28]:[-76.75, 34.73]:(8661)]: 
+  Morehead City to Jacksonville traveling W for 45.83 miles
+  Morehead City to New Bern traveling NW for 34.48 miles
+
+
+Command: PrintSubCities
+Manteo: [0]:[-75.67, 35.9]:(1434)
+Murphy: [1]:[-84.03, 35.09]:(1627)
+Franklin: [2]:[-83.38, 35.18]:(3845)
+Cherokee: [3]:[-83.32, 35.48]:(2138)
+Brevard: [4]:[-82.73, 35.24]:(7609)
+Asheville: [5]:[-82.56, 35.58]:(83393)
+Mars Hill: [6]:[-82.55, 35.83]:(1869)
+Hendersonville: [7]:[-82.46, 35.32]:(13137)
+Spruce Pine: [8]:[-82.07, 35.91]:(2175)
+Forest City: [9]:[-81.87, 35.33]:(7476)
+Boone: [10]:[-81.67, 36.21]:(17122)
+Gastonia: [11]:[-81.18, 35.26]:(71741)
+Charlotte: [12]:[-80.83, 35.21]:(731424)
+Hamptonville: [13]:[-80.81, 36.12]:(6753)
+Mount Airy: [14]:[-80.61, 36.5]:(10388)
+Rockingham: [15]:[-79.76, 34.94]:(9558)
+Greensboro: [16]:[-79.76, 36.08]:(269666)
+Reidsville: [17]:[-79.68, 36.35]:(14520)
+Lumberton: [18]:[-79.01, 34.63]:(21542)
+Henderson: [19]:[-78.41, 36.32]:(15368)
+Wilmington: [20]:[-77.91, 34.22]:(106476)
+Roanoke Rapids: [21]:[-77.65, 36.45]:(15754)
+Jacksonville: [22]:[-77.41, 34.76]:(70145)
+Elizabeth City: [23]:[-76.22, 36.3]:(18683)
+New Bern: [24]:[-77.07, 35.11]:(29524)
+Williamston: [25]:[-77.06, 35.85]:(5511)
+Washington: [26]:[-77.05, 35.55]:(9744)
+Barco: [27]:[-76.0, 36.4]:(881)
+Morehead City: [28]:[-76.75, 34.73]:(8661)
+
+
+Command: DFSsubMap
+29 cities are searched in this DFS order starting from Mount Airy
+
+Mount Airy : Hamptonville : Boone : Spruce Pine : Mars Hill
+Asheville : Cherokee : Murphy : Franklin : Brevard
+Hendersonville : Forest City : Gastonia : Charlotte : Rockingham
+Lumberton : Wilmington : Jacksonville : New Bern : Washington
+Williamston : Elizabeth City : Roanoke Rapids : Henderson : Reidsville
+Greensboro : Barco : Manteo : Morehead City
+
+Parent of Manteo is Barco
+Parent of Murphy is Cherokee
+Parent of Franklin is Murphy
+Parent of Cherokee is Asheville
+Parent of Brevard is Franklin
+Parent of Asheville is Mars Hill
+Parent of Mars Hill is Spruce Pine
+Parent of Hendersonville is Brevard
+Parent of Spruce Pine is Boone
+Parent of Forest City is Hendersonville
+Parent of Boone is Hamptonville
+Parent of Gastonia is Forest City
+Parent of Charlotte is Gastonia
+Parent of Hamptonville is Mount Airy
+Parent of Rockingham is Charlotte
+Parent of Greensboro is Reidsville
+Parent of Reidsville is Henderson
+Parent of Lumberton is Rockingham
+Parent of Henderson is Roanoke Rapids
+Parent of Wilmington is Lumberton
+Parent of Roanoke Rapids is Elizabeth City
+Parent of Jacksonville is Wilmington
+Parent of Elizabeth City is Williamston
+Parent of New Bern is Jacksonville
+Parent of Williamston is Washington
+Parent of Washington is New Bern
+Parent of Barco is Elizabeth City
+Parent of Morehead City is New Bern
+
+Command: DFSsubMap
+29 cities are searched in this DFS order starting from Lumberton
+
+Lumberton : Rockingham : Charlotte : Gastonia : Forest City
+Hendersonville : Brevard : Franklin : Murphy : Cherokee
+Asheville : Mars Hill : Spruce Pine : Boone : Hamptonville
+Mount Airy : Reidsville : Greensboro : Henderson : Roanoke Rapids
+Elizabeth City : Williamston : Washington : New Bern : Jacksonville
+Wilmington : Morehead City : Manteo : Barco
+
+Parent of Manteo is Williamston
+Parent of Murphy is Franklin
+Parent of Franklin is Brevard
+Parent of Cherokee is Murphy
+Parent of Brevard is Hendersonville
+Parent of Asheville is Cherokee
+Parent of Mars Hill is Asheville
+Parent of Hendersonville is Forest City
+Parent of Spruce Pine is Mars Hill
+Parent of Forest City is Gastonia
+Parent of Boone is Spruce Pine
+Parent of Gastonia is Charlotte
+Parent of Charlotte is Rockingham
+Parent of Hamptonville is Boone
+Parent of Mount Airy is Hamptonville
+Parent of Rockingham is Lumberton
+Parent of Greensboro is Reidsville
+Parent of Reidsville is Mount Airy
+Parent of Henderson is Reidsville
+Parent of Wilmington is Jacksonville
+Parent of Roanoke Rapids is Henderson
+Parent of Jacksonville is New Bern
+Parent of Elizabeth City is Roanoke Rapids
+Parent of New Bern is Washington
+Parent of Williamston is Elizabeth City
+Parent of Washington is Williamston
+Parent of Barco is Manteo
+Parent of Morehead City is Jacksonville
+
+Command: BFSsubMap
+29 cities are searched in this BFS order starting from Mars Hill
+
+Mars Hill : Asheville : Spruce Pine : Cherokee : Brevard
+Hendersonville : Boone : Murphy : Franklin : Forest City
+Hamptonville : Gastonia : Mount Airy : Charlotte : Reidsville
+Rockingham : Greensboro : Henderson : Lumberton : Roanoke Rapids
+Wilmington : Elizabeth City : Jacksonville : Williamston : Barco
+New Bern : Morehead City : Washington : Manteo
+
+Parent of Manteo is Williamston
+Parent of Murphy is Cherokee
+Parent of Franklin is Cherokee
+Parent of Cherokee is Asheville
+Parent of Brevard is Asheville
+Parent of Asheville is Mars Hill
+Parent of Hendersonville is Asheville
+Parent of Spruce Pine is Mars Hill
+Parent of Forest City is Hendersonville
+Parent of Boone is Spruce Pine
+Parent of Gastonia is Forest City
+Parent of Charlotte is Gastonia
+Parent of Hamptonville is Boone
+Parent of Mount Airy is Hamptonville
+Parent of Rockingham is Charlotte
+Parent of Greensboro is Reidsville
+Parent of Reidsville is Mount Airy
+Parent of Lumberton is Rockingham
+Parent of Henderson is Reidsville
+Parent of Wilmington is Lumberton
+Parent of Roanoke Rapids is Henderson
+Parent of Jacksonville is Wilmington
+Parent of Elizabeth City is Roanoke Rapids
+Parent of New Bern is Jacksonville
+Parent of Williamston is Elizabeth City
+Parent of Washington is Williamston
+Parent of Barco is Elizabeth City
+Parent of Morehead City is Jacksonville
+
+Command: MSTsubMap
+Total weight is 1169.09
+
+Root is Manteo
+Edges:
+(Franklin, Murphy)   (Brevard, Franklin)   (Franklin, Cherokee)   (Hendersonville, Brevard)   (Hendersonville, Asheville) 
+(Asheville, Mars Hill)   (Forest City, Hendersonville)   (Mars Hill, Spruce Pine)   (Gastonia, Forest City)   (Spruce Pine, Boone) 
+(Charlotte, Gastonia)   (Rockingham, Charlotte)   (Boone, Hamptonville)   (Hamptonville, Mount Airy)   (Lumberton, Rockingham) 
+(Reidsville, Greensboro)   (Mount Airy, Reidsville)   (Wilmington, Lumberton)   (Reidsville, Henderson)   (Jacksonville, Wilmington) 
+(Henderson, Roanoke Rapids)   (New Bern, Jacksonville)   (Barco, Elizabeth City)   (Washington, New Bern)   (Elizabeth City, Williamston) 
+(Williamston, Washington)   (Manteo, Barco)   (New Bern, Morehead City) 
+
+
+Command: ShortPathSubMap
+All shortest paths from Reidsville are: 
+A path from Reidsville to Manteo: 
+Reidsville--> Henderson--> Roanoke Rapids--> Elizabeth City--> Barco--> Manteo (cost: 298.02)
+A path from Reidsville to Murphy: 
+Reidsville--> Mount Airy--> Hamptonville--> Boone--> Spruce Pine--> 
+Mars Hill--> Asheville--> Cherokee--> Murphy (cost: 348.72)
+A path from Reidsville to Franklin: 
+Reidsville--> Mount Airy--> Hamptonville--> Boone--> Spruce Pine--> 
+Mars Hill--> Asheville--> Brevard--> Franklin (cost: 311.16)
+A path from Reidsville to Cherokee: 
+Reidsville--> Mount Airy--> Hamptonville--> Boone--> Spruce Pine--> 
+Mars Hill--> Asheville--> Cherokee (cost: 292.91)
+A path from Reidsville to Brevard: 
+Reidsville--> Mount Airy--> Hamptonville--> Boone--> Spruce Pine--> 
+Mars Hill--> Asheville--> Brevard (cost: 265.88)
+A path from Reidsville to Asheville: 
+Reidsville--> Mount Airy--> Hamptonville--> Boone--> Spruce Pine--> 
+Mars Hill--> Asheville (cost: 239.65)
+A path from Reidsville to Mars Hill: 
+Reidsville--> Mount Airy--> Hamptonville--> Boone--> Spruce Pine--> Mars Hill (cost: 222.47)
+A path from Reidsville to Hendersonville: 
+Reidsville--> Mount Airy--> Hamptonville--> Boone--> Spruce Pine--> 
+Mars Hill--> Asheville--> Hendersonville (cost: 258.7)
+A path from Reidsville to Spruce Pine: 
+Reidsville--> Mount Airy--> Hamptonville--> Boone--> Spruce Pine (cost: 188.96)
+A path from Reidsville to Forest City: 
+Reidsville--> Mount Airy--> Hamptonville--> Boone--> Spruce Pine--> 
+Mars Hill--> Asheville--> Hendersonville--> Forest City (cost: 299.54)
+A path from Reidsville to Boone: 
+Reidsville--> Mount Airy--> Hamptonville--> Boone (cost: 154.46)
+A path from Reidsville to Gastonia: 
+Reidsville--> Mount Airy--> Hamptonville--> Boone--> Spruce Pine--> 
+Mars Hill--> Asheville--> Hendersonville--> Forest City--> Gastonia (cost: 347.46)
+A path from Reidsville to Charlotte: 
+Reidsville--> Mount Airy--> Hamptonville--> Boone--> Spruce Pine--> 
+Mars Hill--> Asheville--> Hendersonville--> Forest City--> Gastonia--> Charlotte (cost: 371.92)
+A path from Reidsville to Hamptonville: 
+Reidsville--> Mount Airy--> Hamptonville (cost: 95.12)
+A path from Reidsville to Mount Airy: 
+Reidsville--> Mount Airy (cost: 65.39)
+A path from Reidsville to Rockingham: 
+Reidsville--> Mount Airy--> Hamptonville--> Boone--> Spruce Pine--> 
+Mars Hill--> Asheville--> Hendersonville--> Forest City--> Gastonia--> 
+Charlotte--> Rockingham (cost: 447.94)
+A path from Reidsville to Greensboro: 
+Reidsville--> Greensboro (cost: 19.27)
+A path from Reidsville to Reidsville: 
+Reidsville (cost: 0.0)
+A path from Reidsville to Lumberton: 
+Reidsville--> Mount Airy--> Hamptonville--> Boone--> Spruce Pine--> 
+Mars Hill--> Asheville--> Hendersonville--> Forest City--> Gastonia--> 
+Charlotte--> Rockingham--> Lumberton (cost: 503.99)
+A path from Reidsville to Henderson: 
+Reidsville--> Henderson (cost: 87.46)
+A path from Reidsville to Wilmington: 
+Reidsville--> Henderson--> Roanoke Rapids--> Elizabeth City--> Williamston--> 
+Washington--> New Bern--> Jacksonville--> Wilmington (cost: 440.79)
+A path from Reidsville to Roanoke Rapids: 
+Reidsville--> Henderson--> Roanoke Rapids (cost: 140.27)
+A path from Reidsville to Jacksonville: 
+Reidsville--> Henderson--> Roanoke Rapids--> Elizabeth City--> Williamston--> 
+Washington--> New Bern--> Jacksonville (cost: 390.05)
+A path from Reidsville to Elizabeth City: 
+Reidsville--> Henderson--> Roanoke Rapids--> Elizabeth City (cost: 239.6)
+A path from Reidsville to New Bern: 
+Reidsville--> Henderson--> Roanoke Rapids--> Elizabeth City--> Williamston--> 
+Washington--> New Bern (cost: 356.36)
+A path from Reidsville to Williamston: 
+Reidsville--> Henderson--> Roanoke Rapids--> Elizabeth City--> Williamston (cost: 305.06)
+A path from Reidsville to Washington: 
+Reidsville--> Henderson--> Roanoke Rapids--> Elizabeth City--> Williamston--> Washington (cost: 325.65)
+A path from Reidsville to Barco: 
+Reidsville--> Henderson--> Roanoke Rapids--> Elizabeth City--> Barco (cost: 257.01)
+A path from Reidsville to Morehead City: 
+Reidsville--> Henderson--> Roanoke Rapids--> Elizabeth City--> Williamston--> 
+Washington--> New Bern--> Morehead City (cost: 390.83)
+
+
+Command: SortCities
+Barco: [27]:[-76.0, 36.4]:(881)
+Manteo: [0]:[-75.67, 35.9]:(1434)
+Murphy: [1]:[-84.03, 35.09]:(1627)
+Biscoe: [22]:[-79.77, 35.36]:(1700)
+Mars Hill: [6]:[-82.55, 35.83]:(1869)
+Cherokee: [3]:[-83.32, 35.48]:(2138)
+Spruce Pine: [8]:[-82.07, 35.91]:(2175)
+Warsaw: [36]:[-78.15, 35.0]:(3054)
+Benson: [33]:[-78.55, 35.37]:(3311)
+Franklin: [2]:[-83.38, 35.18]:(3845)
+Williamston: [25]:[-77.06, 35.85]:(5511)
+Hamptonville: [13]:[-80.81, 36.12]:(6753)
+Forest City: [9]:[-81.87, 35.33]:(7476)
+Brevard: [4]:[-82.73, 35.24]:(7609)
+Marion: [8]:[-82.01, 35.68]:(7838)
+Siler City: [26]:[-79.46, 35.73]:(7887)
+Morehead City: [28]:[-76.75, 34.73]:(8661)
+Rockingham: [15]:[-79.76, 34.94]:(9558)
+Washington: [26]:[-77.05, 35.55]:(9744)
+Mount Airy: [14]:[-80.61, 36.5]:(10388)
+Smithfield: [35]:[-78.35, 35.51]:(10966)
+Hendersonville: [7]:[-82.46, 35.32]:(13137)
+Reidsville: [17]:[-79.68, 36.35]:(14520)
+Henderson: [19]:[-78.41, 36.32]:(15368)
+Roanoke Rapids: [21]:[-77.65, 36.45]:(15754)
+Albemarle: [19]:[-80.2, 35.36]:(15903)
+Boone: [10]:[-81.67, 36.21]:(17122)
+Elizabeth City: [23]:[-76.22, 36.3]:(18683)
+Lumberton: [18]:[-79.01, 34.63]:(21542)
+Kinston: [42]:[-77.59, 35.27]:(21677)
+Statesville: [13]:[-80.88, 35.79]:(24532)
+Asheboro: [21]:[-79.81, 35.72]:(25012)
+Sanford: [27]:[-79.18, 35.48]:(28094)
+New Bern: [24]:[-77.07, 35.11]:(29524)
+Salisbury: [17]:[-80.48, 35.67]:(33662)
+Goldsboro: [37]:[-77.98, 35.38]:(36437)
+Hickory: [11]:[-81.33, 35.74]:(40010)
+Wilson: [38]:[-77.94, 35.69]:(49167)
+Rocky Mount: [40]:[-77.81, 35.95]:(57477)
+Jacksonville: [22]:[-77.41, 34.76]:(70145)
+Gastonia: [11]:[-81.18, 35.26]:(71741)
+Asheville: [5]:[-82.56, 35.58]:(83393)
+Greenville: [44]:[-77.37, 35.6]:(84554)
+High Point: [20]:[-80.0, 35.97]:(104371)
+Wilmington: [20]:[-77.91, 34.22]:(106476)
+Cary: [31]:[-78.8, 35.74]:(135234)
+Fayetteville: [29]:[-78.92, 35.07]:(200564)
+Durham: [30]:[-78.91, 35.99]:(228330)
+Winston-Salem: [18]:[-80.26, 36.1]:(229617)
+Greensboro: [16]:[-79.76, 36.08]:(269666)
+Raleigh: [32]:[-78.64, 35.82]:(403892)
+Charlotte: [12]:[-80.83, 35.21]:(731424)
+
